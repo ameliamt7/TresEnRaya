@@ -14,5 +14,6 @@ public class TresEnRaya {
             System.out.println("0. Salir");
 
         } while (opcion!=0);
+        input.close();
     }
 }
